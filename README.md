@@ -39,4 +39,6 @@ Este conjunto de datos es una fuente valiosa para extraer información clave sob
 | `img_link`          | Enlace URL a la imagen del producto tal como se muestra en Amazon.          |
 | `product_link`      | Enlace URL a la página del listado del producto en Amazon.                  |
 
-
+### Nota:
+ - Al final del código se encuentran las conclusiones del proyecto, en donde se resumen los hallazgos principales y se plantean posibles mejoras o extensiones del análisis realizado.
+ - Para su elaboración se hizo uso de herramientas de inteligencia artificial como apoyo en la generación de código, así como de librerías especializadas en análisis de datos y visualización.
